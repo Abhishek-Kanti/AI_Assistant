@@ -8,6 +8,7 @@ Homie is an advanced AI chatbot powered by OpenAI, designed to provide a dynamic
 ## Technologies Used
 - OpenAI's gpt-3.5-turbo
 - Assistant API
+- Speech-to-text recognition: "pyttsx3" and "google speech_recognizer"
 
 ![Homie UI](path/to/your/image.png)
 
