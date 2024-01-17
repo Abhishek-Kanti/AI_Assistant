@@ -1,5 +1,5 @@
 # Homie - Your Smart Voice Assistant and Conversational Companion
-Homie is a voice-enabled AI conversationalist powered by OpenAI, adept at engaging in dynamic conversations and handling file uploads for text, code, documents, and images. With an intelligent retrieval system and customizable personality, it offers a seamless and tailored user experience becoming truly your homie.
+Homie is a voice-enabled AI conversationalist powered by OpenAI, adept at engaging in dynamic conversations and handling file uploads for text, code, documents, and images. With an intelligent retrieval system and customizable personality, it offers a seamless and tailored user experience truly becoming your homie.
 
 # Overview
 
