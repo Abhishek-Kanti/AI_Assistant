@@ -1,2 +1,35 @@
-# AI_ChatBot
- Homie is a voice-enabled AI conversationalist powered by OpenAI, adept at engaging in dynamic conversations and handling file uploads for text, code, documents, and images. With an intelligent retrieval system and customizable personality, it offers a seamless and tailored user experience becoming truly your homie.
+# Homie - Your Smart Voice Assistant and Conversational Companion
+Homie is a voice-enabled AI conversationalist powered by OpenAI, adept at engaging in dynamic conversations and handling file uploads for text, code, documents, and images. With an intelligent retrieval system and customizable personality, it offers a seamless and tailored user experience becoming truly your homie.
+
+# Over View
+
+Homie is an advanced AI chatbot powered by OpenAI, designed to provide a dynamic and interactive voice-to-voice experience. It supports various file formats, enables voice interactions, and facilitates seamless text-based chatting.
+
+## Technologies Used
+- OpenAI's gpt-3.5-turbo
+- Assistant API
+
+![Homie UI](path/to/your/image.png)
+
+## Multiple File Uploading
+
+Homie allows users to upload multiple files in various formats such as .txt, .csv, .md, .html, .json, .py, .rb, .tex, .c, .cpp, .java, .php, .pptx, .docx, .pdf, and more. After uploading files, click the "Process" button for Homie to intelligently retrieve and process content from the uploaded files.
+
+![Multiple File Upload](path/to/your/multiple_file_upload.gif)
+
+## Voice-to-Voice Chat
+
+Homie supports voice-to-voice interactions, providing users with a natural and conversational experience. Engage in voice chats simply by speaking, and Homie will respond intelligently.
+
+![Voice-to-Voice Chat](path/to/your/voice_to_voice_chat.gif)
+
+## Text-Based Chatting
+
+For users who prefer typing, Homie offers a traditional text-based chatting option. Simply uncheck the "Voice" checkbox in the sidebar to switch to the text chat mode.
+
+![Text-Based Chat](path/to/your/text_chat.gif)
+
+## Conclusion
+
+Homie is not just an AI chatbot; it's your companion for intelligent conversations, file processing, and dynamic interactions. Start chatting with Homie today and experience the future of conversational AI.
+
