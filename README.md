@@ -28,7 +28,7 @@ Homie supports voice-to-voice interactions, providing users with a natural and c
 
 For users who prefer typing, Homie offers a traditional text-based chatting option. Simply uncheck the "Voice" checkbox in the sidebar to switch to the text chat mode.
 
-![Text-Based Chat](https://i.ibb.co/DWdZxd4/typing.gif)
+![Text-Based Chat](https://i.ibb.co/c1MSvNJ/chating-Made-with-Clipchamp-1.gif)
 
 ## Conclusion
 
