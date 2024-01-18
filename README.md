@@ -16,7 +16,7 @@ Homie is an advanced AI chatbot powered by OpenAI, designed to provide a dynamic
 
 Homie allows users to upload multiple files in various formats such as .txt, .csv, .md, .html, .json, .py, .rb, .tex, .c, .cpp, .java, .php, .pptx, .docx, .pdf, .gif, .png, .jpg, .jpeg, .zip and more. After uploading files, click the "Process" button for Homie to intelligently retrieve and process content from the uploaded files.
 
-![Multiple File Upload](https://i.ibb.co/TMnX5yj/Homie-multi-File-1.gif)
+![Multiple File Upload](https://i.ibb.co/zRtQWgK/chating-Made-with-Clipchamp.gif)
 
 ## Voice-to-Voice Chat
 
