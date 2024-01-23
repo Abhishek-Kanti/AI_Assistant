@@ -120,8 +120,8 @@ def main():
     # Bot image in circle
     st.markdown('<div class="circle-image"><img src="https://i.ibb.co/x36DfwK/bot-avatar.jpg" alt="Profile Image"> </div>', unsafe_allow_html=True)
 
-    st.markdown("# Hi I am Jarvis!")
-    st.caption("### Jarvis at your service!")
+    st.markdown("# Hi I am Homie!")
+    st.caption("### Homie at your service!")
     # st.caption("### Park with Parker!")
 
     st.markdown(
