@@ -6,7 +6,7 @@ Homie is a voice-enabled AI conversationalist powered by OpenAI, adept at engagi
 Homie is an advanced AI chatbot powered by OpenAI, designed to provide a dynamic and interactive voice-to-voice experience. It supports various file formats, enables voice interactions, and facilitates seamless text-based chatting. Link to the [Demo Video](https://youtu.be/mRj5pNMnSew).
 
 ## Technologies Used
-- OpenAI's gpt-3.5-turbo
+- OpenAI's gpt-3.5-turbo-1106
 - Assistant API
 - Speech-to-text recognition: "pyttsx3" and "google speech_recognizer"
 
